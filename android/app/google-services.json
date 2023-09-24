@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774657518099",
+    "project_id": "flashflutter-30d12",
+    "storage_bucket": "flashflutter-30d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774657518099:android:a0ce0fe4c3943a3070ade6",
+        "android_client_info": {
+          "package_name": "com.example.flash_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQrGJDoD_5wT7mkGkx8JwAiC4EyWaYH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
